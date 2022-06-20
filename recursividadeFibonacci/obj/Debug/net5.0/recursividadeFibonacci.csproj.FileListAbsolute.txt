@@ -1,0 +1,16 @@
+C:\Users\AMD\Desktop\processoSeletivo\recursividadeFibonacci\obj\Debug\net5.0\recursividadeFibonacci.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\processoSeletivo\recursividadeFibonacci\obj\Debug\net5.0\recursividadeFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Desktop\processoSeletivo\recursividadeFibonacci\obj\Debug\net5.0\recursividadeFibonacci.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\processoSeletivo\recursividadeFibonacci\obj\Debug\net5.0\recursividadeFibonacci.AssemblyInfo.cs
+C:\Users\AMD\Desktop\processoSeletivo\recursividadeFibonacci\obj\Debug\net5.0\recursividadeFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\processoSeletivo\recursividadeFibonacci\bin\Debug\net5.0\recursividadeFibonacci.exe
+C:\Users\AMD\Desktop\processoSeletivo\recursividadeFibonacci\bin\Debug\net5.0\recursividadeFibonacci.deps.json
+C:\Users\AMD\Desktop\processoSeletivo\recursividadeFibonacci\bin\Debug\net5.0\recursividadeFibonacci.runtimeconfig.json
+C:\Users\AMD\Desktop\processoSeletivo\recursividadeFibonacci\bin\Debug\net5.0\recursividadeFibonacci.runtimeconfig.dev.json
+C:\Users\AMD\Desktop\processoSeletivo\recursividadeFibonacci\bin\Debug\net5.0\recursividadeFibonacci.dll
+C:\Users\AMD\Desktop\processoSeletivo\recursividadeFibonacci\bin\Debug\net5.0\ref\recursividadeFibonacci.dll
+C:\Users\AMD\Desktop\processoSeletivo\recursividadeFibonacci\bin\Debug\net5.0\recursividadeFibonacci.pdb
+C:\Users\AMD\Desktop\processoSeletivo\recursividadeFibonacci\obj\Debug\net5.0\recursividadeFibonacci.dll
+C:\Users\AMD\Desktop\processoSeletivo\recursividadeFibonacci\obj\Debug\net5.0\ref\recursividadeFibonacci.dll
+C:\Users\AMD\Desktop\processoSeletivo\recursividadeFibonacci\obj\Debug\net5.0\recursividadeFibonacci.pdb
+C:\Users\AMD\Desktop\processoSeletivo\recursividadeFibonacci\obj\Debug\net5.0\recursividadeFibonacci.genruntimeconfig.cache

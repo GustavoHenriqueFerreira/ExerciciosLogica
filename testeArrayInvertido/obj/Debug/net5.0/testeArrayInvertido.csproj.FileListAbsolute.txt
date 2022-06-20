@@ -1,0 +1,16 @@
+C:\Users\AMD\Desktop\processoSeletivo\testeArrayInvertido\bin\Debug\net5.0\testeArrayInvertido.exe
+C:\Users\AMD\Desktop\processoSeletivo\testeArrayInvertido\bin\Debug\net5.0\testeArrayInvertido.deps.json
+C:\Users\AMD\Desktop\processoSeletivo\testeArrayInvertido\bin\Debug\net5.0\testeArrayInvertido.runtimeconfig.json
+C:\Users\AMD\Desktop\processoSeletivo\testeArrayInvertido\bin\Debug\net5.0\testeArrayInvertido.runtimeconfig.dev.json
+C:\Users\AMD\Desktop\processoSeletivo\testeArrayInvertido\bin\Debug\net5.0\testeArrayInvertido.dll
+C:\Users\AMD\Desktop\processoSeletivo\testeArrayInvertido\bin\Debug\net5.0\ref\testeArrayInvertido.dll
+C:\Users\AMD\Desktop\processoSeletivo\testeArrayInvertido\bin\Debug\net5.0\testeArrayInvertido.pdb
+C:\Users\AMD\Desktop\processoSeletivo\testeArrayInvertido\obj\Debug\net5.0\testeArrayInvertido.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\processoSeletivo\testeArrayInvertido\obj\Debug\net5.0\testeArrayInvertido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Desktop\processoSeletivo\testeArrayInvertido\obj\Debug\net5.0\testeArrayInvertido.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\processoSeletivo\testeArrayInvertido\obj\Debug\net5.0\testeArrayInvertido.AssemblyInfo.cs
+C:\Users\AMD\Desktop\processoSeletivo\testeArrayInvertido\obj\Debug\net5.0\testeArrayInvertido.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\processoSeletivo\testeArrayInvertido\obj\Debug\net5.0\testeArrayInvertido.dll
+C:\Users\AMD\Desktop\processoSeletivo\testeArrayInvertido\obj\Debug\net5.0\ref\testeArrayInvertido.dll
+C:\Users\AMD\Desktop\processoSeletivo\testeArrayInvertido\obj\Debug\net5.0\testeArrayInvertido.pdb
+C:\Users\AMD\Desktop\processoSeletivo\testeArrayInvertido\obj\Debug\net5.0\testeArrayInvertido.genruntimeconfig.cache

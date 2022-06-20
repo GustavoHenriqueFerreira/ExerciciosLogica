@@ -1,0 +1,16 @@
+C:\Users\AMD\Desktop\processoSeletivo\numeroMaior\obj\Debug\net5.0\numeroMaior.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\processoSeletivo\numeroMaior\obj\Debug\net5.0\numeroMaior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Desktop\processoSeletivo\numeroMaior\obj\Debug\net5.0\numeroMaior.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\processoSeletivo\numeroMaior\obj\Debug\net5.0\numeroMaior.AssemblyInfo.cs
+C:\Users\AMD\Desktop\processoSeletivo\numeroMaior\obj\Debug\net5.0\numeroMaior.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\processoSeletivo\numeroMaior\bin\Debug\net5.0\numeroMaior.exe
+C:\Users\AMD\Desktop\processoSeletivo\numeroMaior\bin\Debug\net5.0\numeroMaior.deps.json
+C:\Users\AMD\Desktop\processoSeletivo\numeroMaior\bin\Debug\net5.0\numeroMaior.runtimeconfig.json
+C:\Users\AMD\Desktop\processoSeletivo\numeroMaior\bin\Debug\net5.0\numeroMaior.runtimeconfig.dev.json
+C:\Users\AMD\Desktop\processoSeletivo\numeroMaior\bin\Debug\net5.0\numeroMaior.dll
+C:\Users\AMD\Desktop\processoSeletivo\numeroMaior\bin\Debug\net5.0\ref\numeroMaior.dll
+C:\Users\AMD\Desktop\processoSeletivo\numeroMaior\bin\Debug\net5.0\numeroMaior.pdb
+C:\Users\AMD\Desktop\processoSeletivo\numeroMaior\obj\Debug\net5.0\numeroMaior.dll
+C:\Users\AMD\Desktop\processoSeletivo\numeroMaior\obj\Debug\net5.0\ref\numeroMaior.dll
+C:\Users\AMD\Desktop\processoSeletivo\numeroMaior\obj\Debug\net5.0\numeroMaior.pdb
+C:\Users\AMD\Desktop\processoSeletivo\numeroMaior\obj\Debug\net5.0\numeroMaior.genruntimeconfig.cache

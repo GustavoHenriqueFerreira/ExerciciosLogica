@@ -1,0 +1,16 @@
+C:\Users\AMD\Desktop\processoSeletivo\recursividade\obj\Debug\net5.0\recursividade.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\processoSeletivo\recursividade\obj\Debug\net5.0\recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Desktop\processoSeletivo\recursividade\obj\Debug\net5.0\recursividade.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\processoSeletivo\recursividade\obj\Debug\net5.0\recursividade.AssemblyInfo.cs
+C:\Users\AMD\Desktop\processoSeletivo\recursividade\obj\Debug\net5.0\recursividade.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\processoSeletivo\recursividade\bin\Debug\net5.0\recursividade.exe
+C:\Users\AMD\Desktop\processoSeletivo\recursividade\bin\Debug\net5.0\recursividade.deps.json
+C:\Users\AMD\Desktop\processoSeletivo\recursividade\bin\Debug\net5.0\recursividade.runtimeconfig.json
+C:\Users\AMD\Desktop\processoSeletivo\recursividade\bin\Debug\net5.0\recursividade.runtimeconfig.dev.json
+C:\Users\AMD\Desktop\processoSeletivo\recursividade\bin\Debug\net5.0\recursividade.dll
+C:\Users\AMD\Desktop\processoSeletivo\recursividade\bin\Debug\net5.0\ref\recursividade.dll
+C:\Users\AMD\Desktop\processoSeletivo\recursividade\bin\Debug\net5.0\recursividade.pdb
+C:\Users\AMD\Desktop\processoSeletivo\recursividade\obj\Debug\net5.0\recursividade.dll
+C:\Users\AMD\Desktop\processoSeletivo\recursividade\obj\Debug\net5.0\ref\recursividade.dll
+C:\Users\AMD\Desktop\processoSeletivo\recursividade\obj\Debug\net5.0\recursividade.pdb
+C:\Users\AMD\Desktop\processoSeletivo\recursividade\obj\Debug\net5.0\recursividade.genruntimeconfig.cache
